@@ -8311,13 +8311,13 @@
     },
     "Hahn.ApplicatonProcess.December2020.Data/1.0.0": {
       "type": "project",
-      "path": "../../Data/Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj",
-      "msbuildProject": "../../Data/Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj"
+      "path": "../Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj",
+      "msbuildProject": "../Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj"
     },
     "Hahn.ApplicatonProcess.December2020.Domain/1.0.0": {
       "type": "project",
-      "path": "../../Domain/Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj",
-      "msbuildProject": "../../Domain/Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj"
+      "path": "../Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj",
+      "msbuildProject": "../Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8341,11 +8341,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Web\\Hahn.ApplicatonProcess.December2020.Web\\Hahn.ApplicatonProcess.December2020.Web.csproj",
+      "projectUniqueName": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Web\\Hahn.ApplicatonProcess.December2020.Web.csproj",
       "projectName": "Hahn.ApplicatonProcess.December2020.Web",
-      "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Web\\Hahn.ApplicatonProcess.December2020.Web\\Hahn.ApplicatonProcess.December2020.Web.csproj",
+      "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Web\\Hahn.ApplicatonProcess.December2020.Web.csproj",
       "packagesPath": "C:\\Users\\VENKATESH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Web\\Hahn.ApplicatonProcess.December2020.Web\\obj\\",
+      "outputPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VENKATESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8362,11 +8362,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {
-              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj"
+            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {
+              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj"
             },
-            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
-              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj"
+            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
+              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj"
             }
           }
         }

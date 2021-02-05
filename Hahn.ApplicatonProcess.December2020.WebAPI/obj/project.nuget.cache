@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Om0iNiTZjZHnljXGsfAasc1nzCKMDP3lhZAm1GsmKuncuJNQPgMCldYpIeIfo1avxTbTCdfSKtzMHMWYMvFeLw==",
+  "dgSpecHash": "+EQpEwaKsLhM9NY/8/+a55WbEPzsFCs9lsI0lgLarGiQEyPk6Q2aFoW/S7zYgj4RazfsSWrfXcQkflcoNEuFIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.WebAPI\\Hahn.ApplicatonProcess.December2020.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -64,8 +64,7 @@
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\VENKATESH\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
-    "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.2\\microsoft.netcore.app.host.linux-x64.5.0.2.nupkg.sha512"
+    "C:\\Users\\VENKATESH\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
