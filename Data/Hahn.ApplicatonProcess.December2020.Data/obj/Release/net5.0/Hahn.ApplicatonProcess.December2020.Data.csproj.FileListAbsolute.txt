@@ -1,0 +1,15 @@
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.deps.json
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.runtimeconfig.json
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.runtimeconfig.dev.json
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\ref\Hahn.ApplicatonProcess.December2020.Data.dll
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\bin\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.csprojAssemblyReference.cache
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.AssemblyInfoInputs.cache
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.AssemblyInfo.cs
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.csproj.CoreCompileInputs.cache
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.dll
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\ref\Hahn.ApplicatonProcess.December2020.Data.dll
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.pdb
+C:\Users\VENKATESH\source\repos\Hahn-Assignment\Hahn.ApplicatonProcess.Application\Data\Hahn.ApplicatonProcess.December2020.Data\obj\Release\net5.0\Hahn.ApplicatonProcess.December2020.Data.genruntimeconfig.cache
