@@ -349,3 +349,19 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 *.pdb
+Hahn.ApplicatonProcess.December2020.Data/obj/Debug/net5.0/Hahn.ApplicatonProcess.December2020.Data.csprojAssemblyReference.cache
+Hahn.ApplicatonProcess.December2020.Domain/obj/Debug/net5.0/Hahn.ApplicatonProcess.December2020.Domain.csprojAssemblyReference.cache
+Hahn.ApplicatonProcess.December2020.Domain/obj/Hahn.ApplicatonProcess.December2020.Domain.csproj.nuget.dgspec.json
+Hahn.ApplicatonProcess.December2020.Domain/obj/Hahn.ApplicatonProcess.December2020.Domain.csproj.nuget.g.props
+Hahn.ApplicatonProcess.December2020.Domain/obj/project.assets.json
+Hahn.ApplicatonProcess.December2020.Domain/obj/project.nuget.cache
+Hahn.ApplicatonProcess.December2020.Web/obj/Debug/net5.0/Hahn.ApplicatonProcess.December2020.Web.csprojAssemblyReference.cache
+Hahn.ApplicatonProcess.December2020.Web/obj/Hahn.ApplicatonProcess.December2020.Web.csproj.nuget.dgspec.json
+Hahn.ApplicatonProcess.December2020.Web/obj/Hahn.ApplicatonProcess.December2020.Web.csproj.nuget.g.props
+Hahn.ApplicatonProcess.December2020.Web/obj/project.assets.json
+Hahn.ApplicatonProcess.December2020.Web/obj/project.nuget.cache
+Hahn.ApplicatonProcess.December2020.WebAPI/obj/Debug/net5.0/Hahn.ApplicatonProcess.December2020.WebAPI.assets.cache
+Hahn.ApplicatonProcess.December2020.WebAPI/obj/Hahn.ApplicatonProcess.December2020.WebAPI.csproj.nuget.dgspec.json
+Hahn.ApplicatonProcess.December2020.WebAPI/obj/Hahn.ApplicatonProcess.December2020.WebAPI.csproj.nuget.g.props
+Hahn.ApplicatonProcess.December2020.WebAPI/obj/project.assets.json
+Hahn.ApplicatonProcess.December2020.WebAPI/obj/project.nuget.cache

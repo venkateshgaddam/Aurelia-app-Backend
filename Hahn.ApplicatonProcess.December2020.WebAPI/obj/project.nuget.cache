@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "+EQpEwaKsLhM9NY/8/+a55WbEPzsFCs9lsI0lgLarGiQEyPk6Q2aFoW/S7zYgj4RazfsSWrfXcQkflcoNEuFIg==",
-  "success": true,
+  "dgSpecHash": "34qs9EZX65UUgehOk6+WfZm8DIpZ7afA3L14eDO3nU0/qijOXylPiLvt0d5qa30QNeRfodg8c7yFcp4fyhWUEg==",
+  "success": false,
   "projectFilePath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.WebAPI\\Hahn.ApplicatonProcess.December2020.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VENKATESH\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
@@ -10,7 +10,6 @@
     "C:\\Users\\VENKATESH\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
-    "C:\\Users\\VENKATESH\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
@@ -26,7 +25,6 @@
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.2\\microsoft.entityframeworkcore.design.5.0.2.nupkg.sha512",
-    "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.2\\microsoft.entityframeworkcore.inmemory.5.0.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.2\\microsoft.entityframeworkcore.relational.5.0.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.2\\microsoft.entityframeworkcore.sqlite.5.0.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.2\\microsoft.entityframeworkcore.sqlite.core.5.0.2.nupkg.sha512",
@@ -63,8 +61,26 @@
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\VENKATESH\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\VENKATESH\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

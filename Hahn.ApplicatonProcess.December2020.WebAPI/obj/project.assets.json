@@ -76,19 +76,6 @@
           "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll": {}
         }
       },
-      "AutoMapper/10.1.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.CSharp": "4.7.0",
-          "System.Reflection.Emit": "4.7.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/AutoMapper.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/AutoMapper.dll": {}
-        }
-      },
       "FluentValidation/9.5.0": {
         "type": "package",
         "compile": {
@@ -274,18 +261,6 @@
         },
         "build": {
           "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props": {}
-        }
-      },
-      "Microsoft.EntityFrameworkCore.InMemory/5.0.2": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.2"
-        },
-        "compile": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.2": {
@@ -764,15 +739,6 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.Reflection.Emit/4.7.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
-      },
       "System.Text.Encodings.Web/4.5.0": {
         "type": "package",
         "compile": {
@@ -781,38 +747,6 @@
         "runtime": {
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {}
         }
-      },
-      "Hahn.ApplicatonProcess.December2020.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.InMemory": "5.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Hahn.ApplicatonProcess.December2020.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hahn.ApplicatonProcess.December2020.Data.dll": {}
-        }
-      },
-      "Hahn.ApplicatonProcess.December2020.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "AutoMapper": "10.1.1",
-          "FluentValidation": "9.5.0",
-          "Hahn.ApplicatonProcess.December2020.Data": "1.0.0",
-          "Swashbuckle.AspNetCore.Filters": "6.0.1"
-        },
-        "compile": {
-          "bin/placeholder/Hahn.ApplicatonProcess.December2020.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hahn.ApplicatonProcess.December2020.Domain.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -901,22 +835,6 @@
         "amazon.lambda.serialization.systemtextjson.nuspec",
         "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll",
         "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.xml"
-      ]
-    },
-    "AutoMapper/10.1.1": {
-      "sha512": "uMgbqOdu9ZG5cIOty0C85hzzayBH2i9BthnS5FlMqKtMSHDv4ts81a2jS1VFaDBVhlBeIqJ/kQKjQY95BZde9w==",
-      "type": "package",
-      "path": "automapper/10.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "automapper.10.1.1.nupkg.sha512",
-        "automapper.nuspec",
-        "icon.png",
-        "lib/net461/AutoMapper.dll",
-        "lib/net461/AutoMapper.xml",
-        "lib/netstandard2.0/AutoMapper.dll",
-        "lib/netstandard2.0/AutoMapper.xml"
       ]
     },
     "FluentValidation/9.5.0": {
@@ -1195,20 +1113,6 @@
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
         "microsoft.entityframeworkcore.design.5.0.2.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.InMemory/5.0.2": {
-      "sha512": "J8/Fn3hfbgKmCpMwtCOipv6q4BNORmUy9AE2KEUZFHCtyaq3Ftox0x0ZybvWWrUW1eNkddaz5KbaPGL9qt8JCA==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.inmemory/5.0.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll",
-        "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.xml",
-        "microsoft.entityframeworkcore.inmemory.5.0.2.nupkg.sha512",
-        "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/5.0.2": {
@@ -1996,60 +1900,6 @@
         "version.txt"
       ]
     },
-    "System.Reflection.Emit/4.7.0": {
-      "sha512": "VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
-      "type": "package",
-      "path": "system.reflection.emit/4.7.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoTouch10/_._",
-        "lib/net45/_._",
-        "lib/netcore50/System.Reflection.Emit.dll",
-        "lib/netcoreapp2.0/_._",
-        "lib/netstandard1.1/System.Reflection.Emit.dll",
-        "lib/netstandard1.1/System.Reflection.Emit.xml",
-        "lib/netstandard1.3/System.Reflection.Emit.dll",
-        "lib/netstandard2.0/System.Reflection.Emit.dll",
-        "lib/netstandard2.0/System.Reflection.Emit.xml",
-        "lib/netstandard2.1/_._",
-        "lib/xamarinios10/_._",
-        "lib/xamarinmac20/_._",
-        "lib/xamarintvos10/_._",
-        "lib/xamarinwatchos10/_._",
-        "ref/MonoAndroid10/_._",
-        "ref/MonoTouch10/_._",
-        "ref/net45/_._",
-        "ref/netcoreapp2.0/_._",
-        "ref/netstandard1.1/System.Reflection.Emit.dll",
-        "ref/netstandard1.1/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/de/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/es/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/fr/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/it/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/ja/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/ko/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/ru/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/zh-hans/System.Reflection.Emit.xml",
-        "ref/netstandard1.1/zh-hant/System.Reflection.Emit.xml",
-        "ref/netstandard2.0/System.Reflection.Emit.dll",
-        "ref/netstandard2.0/System.Reflection.Emit.xml",
-        "ref/netstandard2.1/_._",
-        "ref/xamarinios10/_._",
-        "ref/xamarinmac20/_._",
-        "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "runtimes/aot/lib/netcore50/System.Reflection.Emit.dll",
-        "runtimes/aot/lib/netcore50/System.Reflection.Emit.xml",
-        "system.reflection.emit.4.7.0.nupkg.sha512",
-        "system.reflection.emit.nuspec",
-        "useSharedDesignerContext.txt",
-        "version.txt"
-      ]
-    },
     "System.Text.Encodings.Web/4.5.0": {
       "sha512": "Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
       "type": "package",
@@ -2068,24 +1918,14 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Hahn.ApplicatonProcess.December2020.Data/1.0.0": {
-      "type": "project",
-      "path": "../Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj",
-      "msbuildProject": "../Hahn.ApplicatonProcess.December2020.Data/Hahn.ApplicatonProcess.December2020.Data.csproj"
-    },
-    "Hahn.ApplicatonProcess.December2020.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj",
-      "msbuildProject": "../Hahn.ApplicatonProcess.December2020.Domain/Hahn.ApplicatonProcess.December2020.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Amazon.Lambda.AspNetCoreServer >= 5.3.0",
+      "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+      "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
       "FluentValidation.AspNetCore >= 9.5.0",
-      "Hahn.ApplicatonProcess.December2020.Data >= 1.0.0",
-      "Hahn.ApplicatonProcess.December2020.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.2",
@@ -2120,11 +1960,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {
-              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj"
+            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj": {
+              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj"
             },
-            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
-              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj"
+            "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj": {
+              "projectPath": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj"
             }
           }
         }
@@ -2191,5 +2031,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Data\\Hahn.ApplicatonProcess.December2020.Data\\Hahn.ApplicatonProcess.December2020.Data.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\VENKATESH\\source\\repos\\Hahn-Assignment\\Hahn.ApplicatonProcess.Application\\Domain\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
