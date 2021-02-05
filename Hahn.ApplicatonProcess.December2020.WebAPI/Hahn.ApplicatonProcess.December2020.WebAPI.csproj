@@ -19,7 +19,7 @@
     <PackageReference Include="FluentValidation.AspNetCore" Version="9.5.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Data\Hahn.ApplicatonProcess.December2020.Data\Hahn.ApplicatonProcess.December2020.Data.csproj" />
-    <ProjectReference Include="..\Domain\Hahn.ApplicatonProcess.December2020.Domain\Hahn.ApplicatonProcess.December2020.Domain.csproj" />
+    <ProjectReference Include="..\Hahn.ApplicatonProcess.December2020.Data\Hahn.ApplicatonProcess.December2020.Data.csproj" />
+    <ProjectReference Include="..\Hahn.ApplicatonProcess.December2020.Domain\Hahn.ApplicatonProcess.December2020.Domain.csproj" />
   </ItemGroup>
 </Project>
